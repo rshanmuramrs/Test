@@ -15,6 +15,7 @@ using Fadv.CAST.CA.Util;
 namespace FADV.CASTCAN.Order.Business
 {
 
+    //Shan
     public class SmtpParameters : ISmtpParameters
     {
         private string smtpServer;
